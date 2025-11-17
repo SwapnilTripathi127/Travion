@@ -78,9 +78,15 @@ npm start
 
 ---
 
-## 📸 **Screenshots (Optional)**
+## 📸 **Screenshots**
 
-*Add screenshots of your UI here.*
+<img width="1892" height="900" alt="image" src="https://github.com/user-attachments/assets/d2cd075b-5af9-483d-8127-f08175fd584b" />
+<img width="620" height="928" alt="image" src="https://github.com/user-attachments/assets/895c4821-d71f-41de-b71f-675fd26384dd" />
+<img width="1227" height="760" alt="image" src="https://github.com/user-attachments/assets/f6b82bb4-12e2-4a92-b445-051e1d4826f0" />
+<img width="1884" height="924" alt="image" src="https://github.com/user-attachments/assets/bd1b7681-e372-460e-b27e-f4fcb374516f" />
+
+
+
 
 ---
 
